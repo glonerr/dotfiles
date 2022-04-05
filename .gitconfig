@@ -1,0 +1,9 @@
+[user]
+	email = glonerr@gmail.com
+	name = glonerr
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+[credential]
+	helper = store
